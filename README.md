@@ -8,18 +8,18 @@ No trabalho dessa semana vamos alterar o projeto para que a responsividade da ho
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Enzo Carneiro Dias
+- Matricula: 918170
+- Proposta de projeto escolhida: Blog de Bitcoin
+- Breve descrição sobre seu projeto: Blog de Bitcoin com informacoes e forum de conversa
 
 ## Print da versão responsiva com Bootstrap [DESKTOP]
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Foto desktop](images/homeboots.png)
 
 ## Print da versão responsiva com Bootstrap [MOBILE] (*)
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Foto desktop](images/mobileboots.png)
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
