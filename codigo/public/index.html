@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BitLearn</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="index.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
 </head>
 <body class="pt-5">
@@ -14,7 +14,7 @@
 
 
     <a class="navbar-brand d-flex align-items-center" href="#">
-        <img src="../images/Bitcoin-Logo-700x394.png" width="70" height="40" class="me-2">
+        <img src="../../images/Bitcoin-Logo-700x394.png" width="70" height="40" class="me-2">
         <span>BitLearn</span>
     </a>
 
@@ -43,11 +43,6 @@
         <div class="row gx-5 align-items-stretch">
             <aside class="col-12 col-md-3 p-3">
             <ul class="list-group">
-                <li class="list-group-item"><a class="text-dark">Quem é Satoshi?</a></li>
-                <li class="list-group-item"><a class="text-dark" href="">Blockchain</a></li>
-                <li class="list-group-item"><a class="text-dark" href="">Criptografia</a></li>
-                <li class="list-group-item"><a class="text-dark" href="">Inovação econômica</a></li>
-                <li class="list-group-item"><a class="text-dark" href="">Whitepaper</a></li>
                 <li class="list-group-item"><a class="text-dark" href="">Gerenciar Conta</a></li>
                 <li class="list-group-item"><a class="text-dark" href="">Global Forum</a></li>
             </ul>
@@ -65,14 +60,15 @@
         <section class="row">           
             <div class="col-6 mx-auto text-center bg-dark gy-5 rounded text-white">
             <form>
-                <h3>Se inscreva para receber notícias!</h3>
-                <label>Nome:</label>
-                <input type="text">
+                <h3>Login</h3>
+                <label>Email</label>
+                <input id="email" type="email">
 
-                <label id="email">Email:</label>
-                <input type="email">
+                <label id="senha">Senha</label>
+                <input id="senha" type="password">
 
-                <button type="submit">Inscrever-se</button>
+                <button id="login" type="submit">Entrar</button>
+                <button><a href="">Criar Conta</a></button>
             </form>
             </div>
         </section>
@@ -85,5 +81,6 @@
 </main>
     
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+    <script src="login.js" type="module"></script>
 </body>
 </html>
