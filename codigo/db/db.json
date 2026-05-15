@@ -1,10 +1,48 @@
 {
-    "usuarios": [{"id": 1, "email": "email@gmail.com", "senha": "senha123", "username": "user123"}],
-
-    "publicacoes": [{"id": 1, "dataCriacao":"2026-05-13",  "usuarioCod": 1, "forumCod": 1, "conteudo": "postagem teste"}],
-
-    "foruns": [{"id": 1, "dataCriacao":"2026-05-13", "nome": "blockchain", "usuariosCod": [1], "publicacoesCod": [1]}]
-
-
-
+  "usuarios": [
+    {
+      "id": 1,
+      "email": "email@gmail.com",
+      "senha": "senha123",
+      "username": "mendes"
+    },
+    {
+      "id": 2,
+      "email": "email2@gmail.com",
+      "senha": "senha1234",
+      "username": "gabriel"
+    },
+    {
+      "id": 3,
+      "email": "email3@gmail.com",
+      "senha": "senha123",
+      "username": "felipe"
+    }
+  ],
+  "publicacoes": [
+    {
+      "id": 1,
+      "dataCriacao": "2026-05-13",
+      "usuarioCod": 1,
+      "usuarioUser": "mendes",
+      "conteudo": "postagem teste",
+      "titulo": "post TEste"
+    },
+    {
+      "id": 2,
+      "dataCriacao": "2026-05-13",
+      "usuarioCod": 2,
+      "usuarioUser": "gabriel",
+      "conteudo": "postagem teste 2",
+      "titulo": "post TEste"
+    },
+    {
+      "id": 3,
+      "dataCriacao": "2026-05-13",
+      "usuarioCod": 3,
+      "usuarioUser": "felipe",
+      "conteudo": "postagem teste 3",
+      "titulo": "post TEste"
+    }
+  ]
 }
