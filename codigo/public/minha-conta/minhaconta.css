@@ -1,0 +1,13 @@
+body > main {
+    min-height: 100vh; 
+    padding-top: 70px;
+}
+
+#cancelar {
+    text-decoration: none;
+    color: black;
+}
+
+#salvar:hover{
+    background-color: #F7931A;
+}
