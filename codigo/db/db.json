@@ -4,7 +4,7 @@
       "id": 1,
       "email": "gabreiel@gmail.com",
       "senha": "gabrielson123",
-      "username": "gabrielson"
+      "username": "gabrielsony"
     },
     {
       "id": 2,
@@ -24,7 +24,6 @@
       "id": 1,
       "dataCriacao": "2026-05-13",
       "usuarioCod": 1,
-      "usuarioUser": "mendes",
       "conteudo": "postagem teste",
       "titulo": "post TEste"
     },
@@ -32,7 +31,6 @@
       "id": 2,
       "dataCriacao": "2026-05-13",
       "usuarioCod": 2,
-      "usuarioUser": "gabriel",
       "conteudo": "postagem teste 2",
       "titulo": "post TEste"
     },
@@ -40,9 +38,15 @@
       "id": 3,
       "dataCriacao": "2026-05-13",
       "usuarioCod": 3,
-      "usuarioUser": "felipe",
       "conteudo": "postagem teste 3",
       "titulo": "post TEste"
+    },
+    {
+      "dataCriacao": "2026-05-27",
+      "usuarioCod": 1,
+      "conteudo": "post teste",
+      "titulo": "teste123",
+      "id": 4
     }
   ]
 }
