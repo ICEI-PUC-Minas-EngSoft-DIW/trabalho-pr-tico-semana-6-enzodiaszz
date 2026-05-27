@@ -20,6 +20,13 @@
       "senha": "senha123",
       "username": "felipe",
       "photo_url": "https://as1.ftcdn.net/jpg/00/37/32/88/220_F_37328840_bLDR3Nt07w5zbZ6vz8b6IYEOsIaxqngI.jpg"
+    },
+    {
+      "email": "testefinal@gmail.com",
+      "senha": "teste",
+      "username": "ultimoTeste",
+      "photo_url": "https://as1.ftcdn.net/jpg/00/35/53/30/220_F_35533069_PvBsWNtuX8AMSkG8XyEYuirg8LXuPWDe.jpg",
+      "id": 4
     }
   ],
   "publicacoes": [
@@ -50,6 +57,13 @@
       "conteudo": "post teste",
       "titulo": "teste123",
       "id": 4
+    },
+    {
+      "dataCriacao": "2026-05-27",
+      "usuarioCod": 4,
+      "conteudo": "Ola Ola Ola",
+      "titulo": "oioioi",
+      "id": 5
     }
   ]
 }
