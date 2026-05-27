@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', async function (){
     const cardPost = document.getElementById('detalhes');
 
 
-    cardPost.innerHTML = `<h1>Detalhes da postagem</h1> <br> <h2>${postInfo.titulo}</h2> <br> <span>${userInfo.username}  -  ${postInfo.dataCriacao} - ${userInfo.email}</span> <br> <br> <p><h3>Conteúdo:</h3> <br> ${postInfo.conteudo}</p>`;
+    cardPost.innerHTML = `<h1>Detalhes da postagem</h1> <br> <h2>${postInfo.titulo}</h2> <br> <span> <img src="${userInfo.photo_url}" width="40" height="40" class="me-2"> ${userInfo.username}  -  ${postInfo.dataCriacao} - ${userInfo.email}</span> <br> <br> <p><h3>Conteúdo:</h3> <br> ${postInfo.conteudo}</p>`;
 
 
 

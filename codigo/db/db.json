@@ -4,19 +4,22 @@
       "id": 1,
       "email": "gabreiel@gmail.com",
       "senha": "gabrielson123",
-      "username": "gabrielsony"
+      "username": "gabrielsony",
+      "photo_url": "https://www.publicdomainpictures.net/pictures/200000/nahled/yellow-emotiguy.jpg"
     },
     {
       "id": 2,
       "email": "email2@gmail.com",
       "senha": "senha1234",
-      "username": "gabriel"
+      "username": "gabriel",
+      "photo_url": "https://as2.ftcdn.net/jpg/00/32/16/37/220_F_32163762_DEj4WVdFIT0BO52Om8vf8TnW8WBwXpua.jpg"
     },
     {
       "id": 3,
       "email": "email3@gmail.com",
       "senha": "senha123",
-      "username": "felipe"
+      "username": "felipe",
+      "photo_url": "https://as1.ftcdn.net/jpg/00/37/32/88/220_F_37328840_bLDR3Nt07w5zbZ6vz8b6IYEOsIaxqngI.jpg"
     }
   ],
   "publicacoes": [
